@@ -179,5 +179,34 @@ body.dark-mode #theme-toggle {
 
 
 
+/* fotter  */
+
+.footer {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer p {
+  margin: 5px 0;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+}
+
+.creator-name {
+  color: #ffb03b;
+  font-weight: bold;
+}
+
+
+
+
 /* contact page   */
 
